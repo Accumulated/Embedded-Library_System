@@ -1,0 +1,887 @@
+Archive member included because of file (symbol)
+
+c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodqi4.o)
+                              ./HAL/Ekeypad.o (__udivmodqi4)
+c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                              ./EMEMBERS.o (__udivmodhi4)
+c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+                              ./HAL/Ekeypad.o (__divmodhi4)
+c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o (exit)
+c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                              ./HAL/Ekeypad.o (__do_copy_data)
+c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                              ./HAL/Ekeypad.o (__do_clear_bss)
+c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                              ./HAL/Ekeypad.o (__fixunssfsi)
+c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                              c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__subsf3)
+c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                              ./HAL/Ekeypad.o (__mulsf3)
+c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                              ./HAL/LCD.o (__divsf3)
+c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                              ./HAL/Ekeypad.o (__gtsf2)
+c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                              c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__gesf2)
+c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                              ./HAL/Ekeypad.o (__ltsf2)
+c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                              c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__fixsfsi)
+c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                              c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__thenan_sf)
+c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                              c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__prologue_saves__)
+c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                              c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                              c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__pack_f)
+c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                              c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__unpack_f)
+c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                              c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o) (__fpcmp_parts_f)
+c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+                              ./EBOOKS.o (malloc)
+
+Allocating common symbols
+Common symbol       size              file
+
+ptr_member          0x2               ./EMEMBERS.o
+__brkval            0x2               c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+root_member         0x2               ./EMEMBERS.o
+root_book           0x2               ./EBOOKS.o
+ptr_book            0x2               ./EBOOKS.o
+book_to_decay       0x2               ./EBOOKS.o
+__flp               0x2               c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+LOAD ./MCAL/DIO.o
+LOAD ./HAL/Ekeypad.o
+LOAD ./HAL/LCD.o
+LOAD ./EBOOKS.o
+LOAD ./EMEMBERS.o
+LOAD ./app.o
+LOAD c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x5aee
+ *(.vectors)
+ .vectors       0x00000000       0x54 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x00000054                . = ALIGN (0x2)
+                0x00000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000054        0x0 linker stubs
+ *(.trampolines*)
+                0x00000054                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000054                __ctors_start = .
+ *(.ctors)
+                0x00000054                __ctors_end = .
+                0x00000054                __dtors_start = .
+ *(.dtors)
+                0x00000054                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000054        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000054        0xc c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000060       0x16 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x00000060                __do_copy_data
+ .init4         0x00000076       0x10 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x00000076                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000086        0x8 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init9)
+ *(.text)
+ .text          0x0000008e        0x4 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x0000008e                __vector_1
+                0x0000008e                __vector_12
+                0x0000008e                __bad_interrupt
+                0x0000008e                __vector_6
+                0x0000008e                __vector_3
+                0x0000008e                __vector_11
+                0x0000008e                __vector_13
+                0x0000008e                __vector_17
+                0x0000008e                __vector_19
+                0x0000008e                __vector_7
+                0x0000008e                __vector_5
+                0x0000008e                __vector_4
+                0x0000008e                __vector_9
+                0x0000008e                __vector_2
+                0x0000008e                __vector_15
+                0x0000008e                __vector_8
+                0x0000008e                __vector_14
+                0x0000008e                __vector_10
+                0x0000008e                __vector_16
+                0x0000008e                __vector_18
+                0x0000008e                __vector_20
+ .text          0x00000092        0x0 ./MCAL/DIO.o
+ .text          0x00000092        0x0 ./HAL/Ekeypad.o
+ .text          0x00000092        0x0 ./HAL/LCD.o
+ .text          0x00000092        0x0 ./EBOOKS.o
+ .text          0x00000092        0x0 ./EMEMBERS.o
+ .text          0x00000092        0x0 ./app.o
+ .text          0x00000092        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodqi4.o)
+ .text          0x00000092        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000092        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00000092        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text          0x00000092        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000092        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000092       0x58 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                0x00000092                __fixunssfsi
+ .text          0x000000ea      0x354 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                0x00000382                __subsf3
+                0x000003e4                __addsf3
+ .text          0x0000043e      0x1f4 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                0x0000043e                __mulsf3
+ .text          0x00000632      0x158 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                0x00000632                __divsf3
+ .text          0x0000078a       0x60 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                0x0000078a                __gtsf2
+ .text          0x000007ea       0x60 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                0x000007ea                __gesf2
+ .text          0x0000084a       0x60 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                0x0000084a                __ltsf2
+ .text          0x000008aa       0xa8 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                0x000008aa                __fixsfsi
+ .text          0x00000952        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .text          0x00000952        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .text          0x00000952        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .text          0x00000952      0x1aa c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                0x00000952                __pack_f
+ .text          0x00000afc       0xf0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                0x00000afc                __unpack_f
+ .text          0x00000bec       0xb2 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                0x00000bec                __fpcmp_parts_f
+ .text          0x00000c9e        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+                0x00000c9e                . = ALIGN (0x2)
+ *(.text.*)
+ .text.DIO_vidSetPortxDir
+                0x00000c9e       0xba ./MCAL/DIO.o
+                0x00000c9e                DIO_vidSetPortxDir
+ .text.DIO_vidSetPortValue
+                0x00000d58       0x82 ./MCAL/DIO.o
+                0x00000d58                DIO_vidSetPortValue
+ .text.DIO_vidSetPinxDir
+                0x00000dda      0x274 ./MCAL/DIO.o
+                0x00000dda                DIO_vidSetPinxDir
+ .text.DIO_vidSetPinValue
+                0x0000104e       0x82 ./MCAL/DIO.o
+                0x0000104e                DIO_vidSetPinValue
+ .text.DIO_u8GetPinBitValue
+                0x000010d0      0x106 ./MCAL/DIO.o
+                0x000010d0                DIO_u8GetPinBitValue
+ .text.DIO_vidSetPortBitValue
+                0x000011d6      0x1e4 ./MCAL/DIO.o
+                0x000011d6                DIO_vidSetPortBitValue
+ .text.DIO_vidSetPintBitValue
+                0x000013ba      0x1e4 ./MCAL/DIO.o
+                0x000013ba                DIO_vidSetPintBitValue
+ .text.DIO_GetPortValue
+                0x0000159e       0x84 ./MCAL/DIO.o
+                0x0000159e                DIO_GetPortValue
+ .text.DIO_GetPinValue
+                0x00001622       0x84 ./MCAL/DIO.o
+                0x00001622                DIO_GetPinValue
+ .text.DIO_u8GetPortBitValue
+                0x000016a6      0x106 ./MCAL/DIO.o
+                0x000016a6                DIO_u8GetPortBitValue
+ .text.KeyPad_vidInitialize
+                0x000017ac       0x8a ./HAL/Ekeypad.o
+                0x000017ac                KeyPad_vidInitialize
+ .text.KeyPad_vidKey_Pressed
+                0x00001836      0x500 ./HAL/Ekeypad.o
+                0x00001836                KeyPad_vidKey_Pressed
+ .text.LCD_OperateResult
+                0x00001d36      0x136 ./HAL/Ekeypad.o
+                0x00001d36                LCD_OperateResult
+ .text.KEY_PAD_vidOperations
+                0x00001e6c      0x362 ./HAL/Ekeypad.o
+                0x00001e6c                KEY_PAD_vidOperations
+ .text.KeyPad_CharAccumulateString
+                0x000021ce       0x40 ./HAL/Ekeypad.o
+                0x000021ce                KeyPad_CharAccumulateString
+ .text.StringToInt
+                0x0000220e       0xd4 ./HAL/Ekeypad.o
+                0x0000220e                StringToInt
+ .text.CopyString
+                0x000022e2       0x6c ./HAL/Ekeypad.o
+                0x000022e2                CopyString
+ .text.Operation_Reset
+                0x0000234e       0x20 ./HAL/Ekeypad.o
+                0x0000234e                Operation_Reset
+ .text.GPS_Reset
+                0x0000236e       0x32 ./HAL/Ekeypad.o
+                0x0000236e                GPS_Reset
+ .text.Operation_submit
+                0x000023a0       0x28 ./HAL/Ekeypad.o
+                0x000023a0                Operation_submit
+ .text.LCD_vidInitialize
+                0x000023c8      0x69a ./HAL/LCD.o
+                0x000023c8                LCD_vidInitialize
+ .text.LCD_vidInstruction
+                0x00002a62      0x398 ./HAL/LCD.o
+                0x00002a62                LCD_vidInstruction
+ .text.LCD_vidData
+                0x00002dfa       0x22 ./HAL/LCD.o
+                0x00002dfa                LCD_vidData
+ .text.LCD_String
+                0x00002e1c       0x58 ./HAL/LCD.o
+                0x00002e1c                LCD_String
+ .text.LCD_vidGoTo
+                0x00002e74      0x1dc ./HAL/LCD.o
+                0x00002e74                LCD_vidGoTo
+ .text.LCD_u8CurrentLocation_AC
+                0x00003050       0x28 ./HAL/LCD.o
+                0x00003050                LCD_u8CurrentLocation_AC
+ .text.LCD_vidClearOnDemand
+                0x00003078       0x5a ./HAL/LCD.o
+                0x00003078                LCD_vidClearOnDemand
+ .text.BOOKS_vidInitialize
+                0x000030d2       0x66 ./EBOOKS.o
+                0x000030d2                BOOKS_vidInitialize
+ .text.BOOKS_vidInsertion
+                0x00003138      0x2a8 ./EBOOKS.o
+                0x00003138                BOOKS_vidInsertion
+ .text.BOOKS_u8DeleteEntire
+                0x000033e0       0x6a ./EBOOKS.o
+                0x000033e0                BOOKS_u8DeleteEntire
+ .text.BOOKS_vidRestart
+                0x0000344a       0x1a ./EBOOKS.o
+                0x0000344a                BOOKS_vidRestart
+ .text.BOOKS_restart_vip
+                0x00003464       0x1e ./EBOOKS.o
+                0x00003464                BOOKS_restart_vip
+ .text.BOOKS_search
+                0x00003482      0x524 ./EBOOKS.o
+                0x00003482                BOOKS_search
+ .text.BOOKS_show
+                0x000039a6      0x3b2 ./EBOOKS.o
+                0x000039a6                BOOKS_show
+ .text.BOOKS_COPIES_DECAY
+                0x00003d58       0x44 ./EBOOKS.o
+                0x00003d58                BOOKS_COPIES_DECAY
+ .text.BOOKS_COPIES_INCREASE
+                0x00003d9c       0x2a ./EBOOKS.o
+                0x00003d9c                BOOKS_COPIES_INCREASE
+ .text.CompareString
+                0x00003dc6       0x9c ./EBOOKS.o
+                0x00003dc6                CompareString
+ .text.LengthString
+                0x00003e62       0x80 ./EBOOKS.o
+                0x00003e62                LengthString
+ .text.LinkedList_vidInitialize
+                0x00003ee2       0x92 ./EMEMBERS.o
+                0x00003ee2                LinkedList_vidInitialize
+ .text.LinkedList_vidInsertion
+                0x00003f74      0x2f4 ./EMEMBERS.o
+                0x00003f74                LinkedList_vidInsertion
+ .text.LinkedList_u8DeleteEntire
+                0x00004268       0x6a ./EMEMBERS.o
+                0x00004268                LinkedList_u8DeleteEntire
+ .text.LinkedList_vidRestart
+                0x000042d2       0x1a ./EMEMBERS.o
+                0x000042d2                LinkedList_vidRestart
+ .text.restart_vip
+                0x000042ec       0x1e ./EMEMBERS.o
+                0x000042ec                restart_vip
+ .text.LinkedList_vidSearch
+                0x0000430a       0x28 ./EMEMBERS.o
+                0x0000430a                LinkedList_vidSearch
+ .text.search   0x00004332      0x292 ./EMEMBERS.o
+                0x00004332                search
+ .text.Borrow_vid
+                0x000045c4      0x4c4 ./EMEMBERS.o
+                0x000045c4                Borrow_vid
+ .text.LinkedList_show
+                0x00004a88      0x4f4 ./EMEMBERS.o
+                0x00004a88                LinkedList_show
+ .text.RETURN_vid
+                0x00004f7c      0x498 ./EMEMBERS.o
+                0x00004f7c                RETURN_vid
+ .text.LinkedList_vidCompanion
+                0x00005414      0x10a ./EMEMBERS.o
+                0x00005414                LinkedList_vidCompanion
+ .text.main     0x0000551e      0x1ac ./app.o
+                0x0000551e                main
+ .text.DISPLAY_OnDemand
+                0x000056ca      0x142 ./app.o
+                0x000056ca                DISPLAY_OnDemand
+ .text.libgcc   0x0000580c       0x18 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodqi4.o)
+                0x0000580c                __udivmodqi4
+ .text.libgcc   0x00005824       0x28 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                0x00005824                __udivmodhi4
+ .text.libgcc   0x0000584c       0x26 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+                0x0000584c                __divmodhi4
+                0x0000584c                _div
+ .text.libgcc   0x00005872        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00005872        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00005872        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00005872       0x38 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                0x00005872                __prologue_saves__
+ .text.libgcc   0x000058aa       0x36 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                0x000058aa                __epilogue_restores__
+ .text.avr-libc
+                0x000058e0      0x20a c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+                0x000058e0                malloc
+                0x00005a3a                free
+                0x00005aea                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00005aea        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x00005aea                exit
+                0x00005aea                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00005aea        0x4 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00005aee                _etext = .
+
+.data           0x00800060      0x366 load address 0x00005aee
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .data          0x00800060        0x0 ./MCAL/DIO.o
+ .data          0x00800060       0x60 ./HAL/Ekeypad.o
+ .data          0x008000c0        0x0 ./HAL/LCD.o
+ .data          0x008000c0       0x4a ./EBOOKS.o
+ .data          0x0080010a       0xfa ./EMEMBERS.o
+ .data          0x00800204      0x184 ./app.o
+ .data          0x00800388        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodqi4.o)
+ .data          0x00800388        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00800388        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00800388        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x00800388        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .data          0x00800388        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00800388        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .data          0x00800388        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .data          0x00800388        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .data          0x00800388        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .data          0x00800388        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .data          0x00800388        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .data          0x00800388        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .data          0x00800388        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .data          0x00800388        0x8 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                0x00800388                __thenan_sf
+ .data          0x00800390        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .data          0x00800390        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .data          0x00800390        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .data          0x00800390        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .data          0x00800390        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x00800390        0x6 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+                0x00800392                __malloc_heap_start
+                0x00800394                __malloc_heap_end
+                0x00800390                __malloc_margin
+ *(.data*)
+ .data.character
+                0x00800396       0x30 ./HAL/Ekeypad.o
+                0x00800396                character
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x008003c6                . = ALIGN (0x2)
+                0x008003c6                _edata = .
+                0x008003c6                PROVIDE (__data_end, .)
+
+.bss            0x008003c6       0x6a
+                0x008003c6                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x008003c6        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .bss           0x008003c6        0x0 ./MCAL/DIO.o
+ .bss           0x008003c6        0x0 ./HAL/Ekeypad.o
+ .bss           0x008003c6        0x0 ./HAL/LCD.o
+ .bss           0x008003c6        0x0 ./EBOOKS.o
+ .bss           0x008003c6        0x0 ./EMEMBERS.o
+ .bss           0x008003c6        0x0 ./app.o
+ .bss           0x008003c6        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodqi4.o)
+ .bss           0x008003c6        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x008003c6        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x008003c6        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x008003c6        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .bss           0x008003c6        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x008003c6        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .bss           0x008003c6        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .bss           0x008003c6        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .bss           0x008003c6        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .bss           0x008003c6        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .bss           0x008003c6        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .bss           0x008003c6        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .bss           0x008003c6        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .bss           0x008003c6        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .bss           0x008003c6        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .bss           0x008003c6        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .bss           0x008003c6        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .bss           0x008003c6        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .bss           0x008003c6        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x008003c6        0x0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+ *(.bss*)
+ .bss.DEAD_SIGNAL_TERMINATE
+                0x008003c6        0x1 ./HAL/Ekeypad.o
+                0x008003c6                DEAD_SIGNAL_TERMINATE
+ .bss.location  0x008003c7        0x1 ./HAL/Ekeypad.o
+                0x008003c7                location
+ .bss.X         0x008003c8        0x1 ./HAL/Ekeypad.o
+                0x008003c8                X
+ .bss.result    0x008003c9        0x1 ./HAL/Ekeypad.o
+                0x008003c9                result
+ .bss.times     0x008003ca        0x1 ./HAL/Ekeypad.o
+                0x008003ca                times
+ .bss.General_Purpose_String
+                0x008003cb        0xf ./HAL/Ekeypad.o
+                0x008003cb                General_Purpose_String
+ .bss.GPS_Index
+                0x008003da        0x1 ./HAL/Ekeypad.o
+                0x008003da                GPS_Index
+ .bss.id        0x008003db        0x5 ./HAL/Ekeypad.o
+                0x008003db                id
+ .bss.copies    0x008003e0        0x1 ./HAL/Ekeypad.o
+                0x008003e0                copies
+ .bss.ISBN      0x008003e1        0xd ./HAL/Ekeypad.o
+                0x008003e1                ISBN
+ .bss.Name      0x008003ee       0x14 ./HAL/Ekeypad.o
+                0x008003ee                Name
+ .bss.serial    0x00800402        0xd ./HAL/Ekeypad.o
+                0x00800402                serial
+ .bss.id_flag   0x0080040f        0x1 ./HAL/Ekeypad.o
+                0x0080040f                id_flag
+ .bss.serial_flag
+                0x00800410        0x1 ./HAL/Ekeypad.o
+                0x00800410                serial_flag
+ .bss.ISBN_flag
+                0x00800411        0x1 ./HAL/Ekeypad.o
+                0x00800411                ISBN_flag
+ .bss.Name_General_flag
+                0x00800412        0x1 ./HAL/Ekeypad.o
+                0x00800412                Name_General_flag
+ .bss.copies_flag
+                0x00800413        0x1 ./HAL/Ekeypad.o
+                0x00800413                copies_flag
+ .bss.operation_flag
+                0x00800414        0x1 ./HAL/Ekeypad.o
+                0x00800414                operation_flag
+ .bss.operation_fields
+                0x00800415        0x1 ./HAL/Ekeypad.o
+                0x00800415                operation_fields
+ .bss.operation
+                0x00800416        0x1 ./HAL/Ekeypad.o
+                0x00800416                operation
+ .bss.BREAK_CODE
+                0x00800417        0x1 ./HAL/Ekeypad.o
+                0x00800417                BREAK_CODE
+ .bss.lcd_stage1
+                0x00800418        0x1 ./HAL/Ekeypad.o
+                0x00800418                lcd_stage1
+ .bss.lcd_stage2
+                0x00800419        0x1 ./HAL/Ekeypad.o
+                0x00800419                lcd_stage2
+ .bss.lcd_stage3
+                0x0080041a        0x1 ./HAL/Ekeypad.o
+                0x0080041a                lcd_stage3
+ .bss.DATA      0x0080041b        0x1 ./HAL/LCD.o
+                0x0080041b                DATA
+ .bss.NoOfBooks
+                0x0080041c        0x1 ./EBOOKS.o
+                0x0080041c                NoOfBooks
+ .bss.insertion_flag
+                0x0080041d        0x1 ./EBOOKS.o
+                0x0080041d                insertion_flag
+ .bss.INDEX_BOOKS_GLOBAL
+                0x0080041e        0x1 ./EBOOKS.o
+                0x0080041e                INDEX_BOOKS_GLOBAL
+ .bss.NoOfMembers
+                0x0080041f        0x1 ./EMEMBERS.o
+                0x0080041f                NoOfMembers
+ .bss.B_insertion_flag
+                0x00800420        0x1 ./EMEMBERS.o
+                0x00800420                B_insertion_flag
+ .bss.INDEX_MEMBERS_GLOBAL
+                0x00800421        0x1 ./EMEMBERS.o
+                0x00800421                INDEX_MEMBERS_GLOBAL
+ *(COMMON)
+ COMMON         0x00800422        0x6 ./EBOOKS.o
+                0x00800422                root_book
+                0x00800424                ptr_book
+                0x00800426                book_to_decay
+ COMMON         0x00800428        0x4 ./EMEMBERS.o
+                0x00800428                ptr_member
+                0x0080042a                root_member
+ COMMON         0x0080042c        0x4 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+                0x0080042c                __brkval
+                0x0080042e                __flp
+                0x00800430                PROVIDE (__bss_end, .)
+                0x00005aee                __data_load_start = LOADADDR (.data)
+                0x00005e54                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800430        0x0
+                0x00800430                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800430                PROVIDE (__noinit_end, .)
+                0x00800430                _end = .
+                0x00800430                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000     0x5598
+ *(.stab)
+ .stab          0x00000000      0x9c0 ./MCAL/DIO.o
+ .stab          0x000009c0     0x126c ./HAL/Ekeypad.o
+                               0x1278 (size before relaxing)
+ .stab          0x00001c2c      0xd50 ./HAL/LCD.o
+                                0xee8 (size before relaxing)
+ .stab          0x0000297c      0xfd8 ./EBOOKS.o
+                               0x123c (size before relaxing)
+ .stab          0x00003954     0x1800 ./EMEMBERS.o
+                               0x1a64 (size before relaxing)
+ .stab          0x00005154      0x444 ./app.o
+                                0x654 (size before relaxing)
+
+.stabstr        0x00000000     0x1703
+ *(.stabstr)
+ .stabstr       0x00000000     0x1703 ./MCAL/DIO.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x160
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_aranges
+                0x00000020       0x20 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_aranges
+                0x00000040       0x20 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_aranges
+                0x00000060       0x20 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_aranges
+                0x00000080       0x20 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_aranges
+                0x000000a0       0x20 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_aranges
+                0x000000c0       0x20 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_aranges
+                0x000000e0       0x20 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_aranges
+                0x00000100       0x20 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_aranges
+                0x00000120       0x20 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_aranges
+                0x00000140       0x20 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_pubnames
+                0x00000000      0x18f
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x23 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_pubnames
+                0x00000023       0x2c c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_pubnames
+                0x0000004f       0x1f c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_pubnames
+                0x0000006e       0x1f c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_pubnames
+                0x0000008d       0x1e c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_pubnames
+                0x000000ab       0x1e c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_pubnames
+                0x000000c9       0x1e c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_pubnames
+                0x000000e7       0x20 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_pubnames
+                0x00000107       0x22 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_pubnames
+                0x00000129       0x1f c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_pubnames
+                0x00000148       0x21 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_pubnames
+                0x00000169       0x26 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_info     0x00000000     0x2045
+ *(.debug_info)
+ .debug_info    0x00000000       0xb1 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_info    0x000000b1      0x47a c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_info    0x0000052b      0x485 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_info    0x000009b0      0x3fc c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_info    0x00000dac      0x27f c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_info    0x0000102b      0x27f c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_info    0x000012aa      0x27f c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_info    0x00001529      0x2b0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_info    0x000017d9      0x12c c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_info    0x00001905      0x2df c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_info    0x00001be4      0x251 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_info    0x00001e35      0x210 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000     0x1101
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x5d c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_abbrev  0x0000005d      0x1ea c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_abbrev  0x00000247      0x21b c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_abbrev  0x00000462      0x216 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_abbrev  0x00000678      0x15a c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_abbrev  0x000007d2      0x15a c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_abbrev  0x0000092c      0x15a c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_abbrev  0x00000a86      0x17f c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_abbrev  0x00000c05       0xad c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_abbrev  0x00000cb2      0x1c0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_abbrev  0x00000e72      0x154 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_abbrev  0x00000fc6      0x13b c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_line     0x00000000      0xf82
+ *(.debug_line)
+ .debug_line    0x00000000       0xa7 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_line    0x000000a7      0x2af c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_line    0x00000356      0x239 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_line    0x0000058f      0x1d5 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_line    0x00000764       0xd3 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_line    0x00000837       0xd3 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_line    0x0000090a       0xd3 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_line    0x000009dd      0x109 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_line    0x00000ae6       0x90 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_line    0x00000b76      0x18a c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_line    0x00000d00      0x14b c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_line    0x00000e4b      0x137 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_frame    0x00000000      0x180
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x20 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x00000020       0x40 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_frame   0x00000060       0x20 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_frame   0x00000080       0x20 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_frame   0x000000a0       0x20 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_frame   0x000000c0       0x20 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_frame   0x000000e0       0x20 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_frame   0x00000100       0x20 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_frame   0x00000120       0x20 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_frame   0x00000140       0x20 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_frame   0x00000160       0x20 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_str      0x00000000      0x2c2
+ *(.debug_str)
+ .debug_str     0x00000000       0xbf c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                                 0xfe (size before relaxing)
+ .debug_str     0x000000bf      0x14d c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                                0x206 (size before relaxing)
+ .debug_str     0x0000020c       0x27 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x00000233       0x35 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                                0x1c8 (size before relaxing)
+ .debug_str     0x00000268        0xf c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000277        0x8 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x0000027f        0x8 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000287        0xa c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                                0x19e (size before relaxing)
+ .debug_str     0x00000000      0x103 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_str     0x00000291       0x16 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                                0x19d (size before relaxing)
+ .debug_str     0x000002a7        0xb c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                                0x17f (size before relaxing)
+ .debug_str     0x000002b2       0x10 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                                0x163 (size before relaxing)
+
+.debug_loc      0x00000000      0x88e
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x34 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_loc     0x00000034      0x32a c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_loc     0x0000035e      0x104 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_loc     0x00000462       0xc0 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_loc     0x00000522       0x3c c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_loc     0x0000055e       0x3c c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_loc     0x0000059a       0x3c c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_loc     0x000005d6       0x7e c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_loc     0x00000654      0x13e c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_loc     0x00000792       0xac c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_loc     0x0000083e       0x50 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(library.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0x50
+ .debug_ranges  0x00000000       0x50 c:/users/newname/desktop/imt_sdk_win_32/imt_sdk_win_32/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
